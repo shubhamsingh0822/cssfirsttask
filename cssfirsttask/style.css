@@ -1,0 +1,54 @@
+.abc {
+    background-color: black;
+    color: bisque;
+    
+}
+a{
+    color: aliceblue;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.xyz{
+    margin-top: 50px;
+}
+.tuv{
+    margin-top: 20px;
+}
+.asd{
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.r{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.a{
+
+    margin-left: 30px;
+}
+.b{
+
+    margin-left: 30px;
+}
+.c{
+
+    margin-left: 30px;
+}
+.q{
+    background-image: url(la.jpg);
+    width: 100%;
+    height: 100%;
+}
+.r{
+    background-color: gainsboro;
+    color: darkkhaki;
+    margin-left: 800px;
+    width: 500px;
+    height: 300px;
+}
+
